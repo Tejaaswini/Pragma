@@ -1,0 +1,65 @@
+.homeImg{
+    width: 450px;
+    margin-top: 10vh !important;
+}
+.headingStyle{
+    color:var(--text);
+    font-weight: 600;
+}
+.subHeadingStyle{
+    color:var(--sub-heading);
+}
+.section{
+    margin-top: 31vh;
+    margin-left: 2vw;
+}
+/* navbar */
+.navLinks{
+    color:var(--text);
+    font-size: 18px;
+}
+
+/* about */
+.aboutImg{
+    width:450px;
+    margin-top: 15vh;
+    margin-left: 3vw;
+}
+.aboutHeading{
+    color:var(--secondary);
+    font-weight: 600;
+    margin-top: 12vh;
+}
+.aboutsubHeading{
+    font-weight: bold;
+    font-size: 20px;
+}
+.aboutPara{
+    font-size: 18px;
+    margin-bottom: 5vh;
+}
+
+/* login page and signup*/
+.loginImg{
+    width: 380px;
+    margin-top: 8vh;
+}
+.loginForm{
+    margin-top: 15vh;
+}
+.siginUpForm{
+    margin-top: 8vh;
+}
+.signupImg{
+    width: 450px;
+    margin-top: 10vh;
+    margin-left: -5vw;
+}
+
+/* receive-page */
+.para{
+    font-size: 20px;
+    margin-top: 5vh !important;
+    margin-left: 5px !important;
+}
+

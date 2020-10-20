@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  font-family: 'Crimson Text', serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #eff0f3 !important;
+}
+
+code {
+  font-family: 'Crimson Text', serif;
+}
+
+:root{
+  --primary:#eff0f3;
+  --text:#0d0d0d;
+  --sub-heading:#2a2a2a;
+  --secondary:#ff8e3c;
+  --pink:#d9376e;
+}
