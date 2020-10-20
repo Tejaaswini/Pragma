@@ -42,7 +42,7 @@ export const signup = (newUser) => {
           .set({
             firstName: newUser.firstName,
             lastName: newUser.lastName,
-            PragmaRewards: 15,
+            // PragmaRewards: 15,
           });
       })
       .then(() => {
