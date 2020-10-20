@@ -1,9 +1,9 @@
 import React from "react";
-import AnimatedNumber from "animated-number-react";
+// import AnimatedNumber from "animated-number-react";
 
 const Profile = ({ profile }) => {
-  const { PragmaRewards } = profile;
-  const formatValue = (value) => value.toFixed(0);
+  // const { PragmaRewards } = profile;
+  // const formatValue = (value) => value.toFixed(0);
   return (
     <div className="card horizontal">
       <div className="card-stacked">
@@ -18,7 +18,8 @@ const Profile = ({ profile }) => {
             <div className="col s6">
               <h5>Your Pragma Rewards</h5>
               <h3 style={{ color: "#ff8e3c" }}>
-                <AnimatedNumber value={PragmaRewards} formatValue={formatValue} />
+                {/* <AnimatedNumber value={PragmaRewards} formatValue={formatValue} /> */}
+                Pragma Rewards would be coming soon!
               </h3>
             </div>
           </div>
